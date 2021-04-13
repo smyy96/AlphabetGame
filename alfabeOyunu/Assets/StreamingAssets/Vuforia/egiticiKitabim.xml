@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ordek" size="150.000000 150.000000" />
+    <ImageTarget name="yilan" size="150.000000 150.000000" />
+    <ImageTarget name="timsah" size="150.000000 150.000000" />
+    <ImageTarget name="tavuk" size="150.000000 150.000000" />
+    <ImageTarget name="penguen" size="150.000000 150.000000" />
+    <ImageTarget name="papagan" size="150.000000 150.000000" />
+    <ImageTarget name="orumcek1" size="150.000000 150.000000" />
+    <ImageTarget name="kuzu" size="150.000000 150.000000" />
+    <ImageTarget name="kus" size="150.000000 150.000000" />
+    <ImageTarget name="kurbaga" size="150.000000 150.000000" />
+    <ImageTarget name="kug" size="150.000000 150.000000" />
+    <ImageTarget name="kopekbaligi" size="150.000000 150.000000" />
+    <ImageTarget name="koala" size="150.000000 150.000000" />
+    <ImageTarget name="kelebek1" size="150.000000 150.000000" />
+    <ImageTarget name="kedi1" size="150.000000 150.000000" />
+    <ImageTarget name="kartal1" size="150.000000 150.000000" />
+    <ImageTarget name="kanguru" size="150.000000 150.000000" />
+    <ImageTarget name="kaplumbaga" size="150.000000 150.000000" />
+    <ImageTarget name="iguana1" size="150.000000 150.000000" />
+    <ImageTarget name="hindi" size="150.000000 150.000000" />
+    <ImageTarget name="fil1" size="150.000000 150.000000" />
+    <ImageTarget name="denizkablumbagasi" size="150.000000 150.000000" />
+    <ImageTarget name="civciv" size="150.000000 150.000000" />
+    <ImageTarget name="balik" size="150.000000 150.000000" />
+    <ImageTarget name="at" size="150.000000 150.000000" />
+    <ImageTarget name="ari1" size="150.000000 150.000000" />
+    <ImageTarget name="tiger1" size="150.000000 150.000000" />
+    <ImageTarget name="tilki1" size="150.000000 150.000000" />
+    <ImageTarget name="iguana" size="150.000000 150.000000" />
+    <ImageTarget name="tilki" size="150.000000 150.000000" />
+    <ImageTarget name="orumcek" size="150.000000 150.000000" />
+    <ImageTarget name="kartal" size="150.000000 150.000000" />
+    <ImageTarget name="fil" size="150.000000 150.000000" />
+    <ImageTarget name="ari" size="150.000000 150.000000" />
+    <ImageTarget name="kelebek" size="150.000000 150.000000" />
+    <ImageTarget name="kedii" size="150.000000 150.000000" />
+    <ImageTarget name="tiger" size="150.000000 148.246750" />
+  </Tracking>
+</QCARConfig>
